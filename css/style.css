@@ -49,9 +49,9 @@ body
   }
 .message
 {
-    background-color: blanchedalmond;
+    background-color: blanchedalmond; /* UPDATE CHANGES */
     border-radius: 5px;
-    width: 25%;
+    width: 25%;  
     margin: 20px 50px;
     height: 8%;
     padding-top: 12px;
@@ -85,7 +85,7 @@ body
 }
 .btn
 {
-  
+
     cursor: pointer;
     width: 45px;
     height: 35px;
